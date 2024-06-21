@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajhahmadnazeer123&" alt="sirajhahmadnazeer123" /></p>
 
 [![Sirajhs's geeksForgeeksstats](https://geeks-for-geeks-stats-api.vercel.app/?userName=21mh1a9h53)]((https://www.geeksforgeeks.org/user/21mh1a9h53/))
+
+![LeetCode Stats](https://leetcode.card.workers.dev/sirajhnazeer?theme=auto&font=baloo&extension=null)
